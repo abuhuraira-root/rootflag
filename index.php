@@ -210,7 +210,7 @@
     </div>
   </div>
 </div>
-<p style="color: #ffffff;">uvzt_vzstr</p>
+<p style="color: #ffffff;">uvag_vafge</p>
     <div id="testimonial" class="clients">
         <div class="container">
             <div class="row">
