@@ -366,7 +366,7 @@
             </form>
           </div>
             </div>
-            <p style="color: #ffffff;">uvzt_vzstr</p>
+            <center><p style="color: #ffffff;">uvzt_vzstr</p></center>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
 <div id="map">
           </div>
