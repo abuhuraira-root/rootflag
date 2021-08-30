@@ -18,8 +18,6 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
 </head>
 <body class="main-layout">
-  <div class="loader_bg">
-  </div>
   <header>
     <div class="header-top">
       <div class="header">
@@ -29,7 +27,7 @@
               <div class="full">
                 <div class="center-desk">
                   <div class="logo">
-                    <a href="index.html"><img src="images/logo.png" alt="#" /></a>
+                    <a href="index.php"><img src="images/logo.png" alt="#" /></a>
                   </div>
                 </div>
               </div>
